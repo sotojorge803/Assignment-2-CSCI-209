@@ -1,0 +1,10 @@
+The length of command-line args is 3
+You have more than 2 arguments.
+arg[0] is cat with length 3
+arg[1] is dog with length 3
+arg[2] is bird with length 4
+The sorted command-line arguments are 
+	bird
+	cat
+	dog
+You don't have a cow, man.
